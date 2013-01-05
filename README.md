@@ -23,6 +23,6 @@ A separate extension, tabloid, adds the following shortcuts to Chrome
 * Move tab to the first position
 * Move tab to the last position
 
-Chrome extensions currently only allow for a maximum of four shortcuts, which is why they are included in tabasco.
+Chrome extensions currently only allow for a maximum of four shortcuts, which is why they are not included in tabasco.
 
 You can fetch tabloid here: https://github.com/michaelfester/tabloid
