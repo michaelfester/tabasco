@@ -2,7 +2,7 @@
   "name": "Tabasco",
   "version": "0.1",
   "manifest_version": 2,
-  "description": "Spicy tab shortcuts",
+  "description": "Chrome extension adding shortcuts for closing and pinning tabs",
   "permissions": [
     "tabs"
   ],
