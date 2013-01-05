@@ -14,16 +14,16 @@ The extension consists of three keyboard shortcuts:
 
 * Alt-Shift-O: close all other Tabs
 * Alt-Shift-R: close Tabs to the right
-* Alt-Shift-P: pin current tab
+* Alt-Shift-P: pin current Tab
 
 ## Tabloid
 
 A separate extension, tabloid, adds the following shortcuts to Chrome
 
-* Move tab one position to the right
-* Move tab one position to the left
-* Move tab to the first position
-* Move tab to the last position
+* Move Tab one position to the right
+* Move Tab one position to the left
+* Move Tab to the first position
+* Move Tab to the last position
 
 Chrome extensions currently only allow for a maximum of four shortcuts, which is why they are not included in tabasco.
 
