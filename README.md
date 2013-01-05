@@ -8,6 +8,8 @@ Note: Chrome Beta channel or later needs to be installed in order for the plugin
 * Click the Load unpacked extension button. A file dialog appears.
 * In the file dialog, navigate to the extension's folder and click OK.
 
+Alternatively, install it via the Chrome Web Store: https://chrome.google.com/webstore/detail/dkoadhojigekhckndaehenfbhcgfeepl
+
 ## Usage
 
 The extension consists of three keyboard shortcuts:
