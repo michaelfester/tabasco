@@ -8,7 +8,7 @@
 
 ## Usage
 
-The extension consists in three keyboard shortcuts:
+The extension consists of three keyboard shortcuts:
 
 * Alt-Shift-O: close all other Tabs
 * Alt-Shift-R: close Tabs to the right
@@ -16,13 +16,13 @@ The extension consists in three keyboard shortcuts:
 
 ## Tabloid
 
-The extension 'tabloid' adds the following shortcuts to Chrome
+A separate extension, tabloid, adds the following shortcuts to Chrome
 
 * Move tab one position to the right
 * Move tab one position to the left
 * Move tab to the first position
 * Move tab to the last position
 
-Unfortunately, Chrome extensions currently only allow for a maximum of four shortcuts, so they cannot be included in the following extension.
+Chrome extensions currently only allow for a maximum of four shortcuts, which is why they are included in tabasco.
 
 You can fetch tabloid here: https://github.com/michaelfester/tabloid
