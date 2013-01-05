@@ -1,3 +1,5 @@
+Note: Chrome Beta channel or later needs to be installed in order for the plugin to work.
+
 ## Installation
 
 * Clone the repository to your local machine.
