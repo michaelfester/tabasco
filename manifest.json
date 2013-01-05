@@ -1,0 +1,27 @@
+{
+  "name": "Tabasco",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "Spicy tab shortcuts",
+  "permissions": [
+    "tabs"
+  ],
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "commands": {
+    "close-other-tabs": {
+      "suggested_key": { "default": "Alt+Shift+O" },
+      "description": "Close other Tabs"
+    },
+    "close-right-tabs": {
+      "suggested_key": { "default": "Alt+Shift+R" },
+      "description": "Close Tabs to the right"
+    },
+    "toggle-pin": {
+      "suggested_key": { "default": "Alt+Shift+P" },
+      "description": "Pin/unpin Tab"
+    }
+  }
+}
