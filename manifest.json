@@ -1,8 +1,8 @@
 {
-  "name": "Tabasco",
-  "version": "0.1",
+  "name": "Keyboard Shortcuts to Close Other/Right Tabs",
+  "version": "0.5",
   "manifest_version": 2,
-  "description": "Chrome extension adding shortcuts for closing and pinning tabs",
+  "description": "Chrome extension adding shortcuts for closing and pinning tabs.",
   "background": {
     "persistent": false,
     "scripts": ["background.js"]
