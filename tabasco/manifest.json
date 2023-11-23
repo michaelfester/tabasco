@@ -1,12 +1,12 @@
 {
   "name": "Keyboard Shortcuts to Close Other/Right Tabs",
-  "version": "0.5",
-  "manifest_version": 2,
+  "version": "1.0.1",
+  "manifest_version": 3,
   "description": "Chrome extension adding shortcuts for closing and pinning tabs.",
   "background": {
-    "persistent": false,
-    "scripts": ["background.js"]
+    "service_worker": "background.js"
   },
+  "permissions": ["tabs", "activeTab", "tabGroups"],
   "commands": {
     "close-other-tabs": {
       "suggested_key": { "default": "Alt+Shift+O" },
